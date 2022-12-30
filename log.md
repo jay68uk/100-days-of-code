@@ -13,7 +13,7 @@ UX/UI work, mobile first.
 Tickets and add to a board, probably kanban
 Next steps, more detailed planning.
 
-**Link to work:** [ToDo Manager](http://www.example.com)
+**Link to work:** [ToDo Manager]([http://www.example.com](https://github.com/jay68uk/ToDo-Manager))
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
