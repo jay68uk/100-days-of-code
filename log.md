@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: 20/12/2022
-##### (delete me or comment me out)
+### Day 0: 30/12/2022
 
 **Today's Progress**: Figuring out what I want to work on.
 
@@ -15,21 +14,20 @@ Next steps, more detailed planning.
 
 **Link to work:** [ToDo Manager](https://github.com/jay68uk/ToDo-Manager)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: 31/12/2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Wprked on the UX/UI in Figma.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Turns out I can't use the Figma I have at work as I can't share it outside the organisation!
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 2: 01/01/2023
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Re-doing my work in Lucid as I can share that!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
