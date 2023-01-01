@@ -20,8 +20,6 @@ Next steps, more detailed planning.
 
 **Thoughts**: Turns out I can't use the Figma I have at work as I can't share it outside the organisation!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
 
 ### Day 2: 01/01/2023
 
