@@ -33,3 +33,5 @@ Next steps, more detailed planning.
 ### Day 3: Worked with UX person from work on refining the design.
 
 ### Day 4: Finalised design and functionality
+
+### Day 5: Started setting up project. [github repo](https://github.com/jay68uk/ToDo-Manager)
