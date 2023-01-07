@@ -35,3 +35,6 @@ Next steps, more detailed planning.
 ### Day 4: Finalised design and functionality
 
 ### Day 5: Started setting up project. [github repo](https://github.com/jay68uk/ToDo-Manager)
+
+### Day 6: Update solution for DI and inital AutoMapper
+**Thoughts**: Had to refer back to previous projects to remember a lot of setting this up. Need to create more initial projects to keep practicing this so I will get quicker at it.
